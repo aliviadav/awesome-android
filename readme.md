@@ -485,7 +485,6 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Android Authority](https://www.androidauthority.com/podcast/) is a weekly Android podcast hosted by Adam Doud, Joe Hindy, and Jonathan Feist from the Android Authority team.
 - [Android Central](https://www.androidcentral.com/podcast) - is a weekly Android podcast hosted by the Android Central team.
 
-### More lists of libraries
 - [The Android Arsenal](https://android-arsenal.com/) - Large list of android libraries
 - [Square libraries](https://square.github.io/) - Multiple high quality libraries by square.
 - [Awesome Android @LibHunt](https://android.libhunt.com) - Your go-to Android Toolbox.
