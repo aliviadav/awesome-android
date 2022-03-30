@@ -468,6 +468,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Mindorks](https://mindorks.com/) - Become a complete and happy Android developer.
 - [AndroidVille](https://ayusch.com/) - Become a better Android Engineer. A website dedicated to Android Development covering advanced topics such as RxJava, Android Zygote and much more.
 - [Android Stack Weekly](https://blog.canopas.com/tagged/canopas-android-weekly) - A weekly newsletter on new development and updates of Android universe.
+- [How to use responsive images to speed up your apps — with android glide example](https://blog.canopas.com/how-to-use-responsive-images-to-speed-up-your-apps-with-android-glide-example-ece3924b84fd) - How to use responsive images to speed up your apps? Loading images efficiently is very important, on every platform, be it android, iOS or the Web. Here's the guide to load image faster and smoother.
 
 ### Code examples
 - [Android Architecture Blueprints](https://github.com/android/architecture-samples) - The Android Architecture Blueprints project demonstrates strategies to help solve or avoid common android problems.
