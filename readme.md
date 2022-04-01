@@ -484,6 +484,7 @@ Awesome-Android is an amazing list for people who need a certain feature on thei
 - [Talking Kotlin](https://talkingkotlin.com/) - A Podcast on Kotlin and more.
 - [Android Authority](https://www.androidauthority.com/podcast/) is a weekly Android podcast hosted by Adam Doud, Joe Hindy, and Jonathan Feist from the Android Authority team.
 - [Android Central](https://www.androidcentral.com/podcast) - is a weekly Android podcast hosted by the Android Central team.
+- [Unit testing on android](https://youtu.be/gvNoNO2NUGw) -In this episode, we talk about testing, how testing helps our code to be less buggy, what are different types of testing, what are aspects of testing which developers prefer, and many more things about testing.
 
 ### More lists of libraries
 - [The Android Arsenal](https://android-arsenal.com/) - Large list of android libraries
